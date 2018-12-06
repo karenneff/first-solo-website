@@ -1,7 +1,7 @@
 # Karen's Website
 
 [Visit this website in action here.](https://evening-cove-18822.herokuapp.com/)
-There is now a homepage! However, the stylesheet didn't quite make it to Heroku yet, so the site doesn't look as it should. Will implement a fix soon!
+There is now a homepage!
 
 ## Documentation
 
